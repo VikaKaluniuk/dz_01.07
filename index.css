@@ -1,0 +1,43 @@
+.h1{
+    color: blueviolet;
+    font-size: 30px;
+    padding-left: 200px;
+    padding-top: 10px;
+}
+.span1{
+    color: rgb(240, 60, 60);
+    font-size: 50px;
+    padding-left: 150px;
+    padding-top: 10px;
+    font-family:  'Arial Narrow';
+}
+.p1{
+    color: rgb(56, 78, 97);
+    font-size: 25px;
+    padding-left: 20px;
+    padding-top: 10px;
+    font-family: 'Franklin Gothic Medium';
+}
+.p2{
+    color: rgb(71, 75, 38);
+    font-size: 25px;
+    padding-left: 20px;
+    padding-top: 10px;
+    font-family: Verdana;
+}
+.p3{
+    color: rgb(116, 207, 172);
+    font-size: 25px;
+    padding-left: 20px;
+    padding-top: 10px;
+    font-family: Georgia;
+}
+.p4{
+    color: rgb(146, 100, 140);
+    font-size: 25px;
+    padding-left: 20px;
+    padding-top: 10px;
+    font-family: 'Segoe UI';
+}
+}
+
